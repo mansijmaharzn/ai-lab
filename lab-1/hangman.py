@@ -31,7 +31,7 @@ def update_remaining_list(remaining_list, valid_index_list, user_choice):
 def main():
     print("Welcome to Hangman!")
     chosen_word = get_word()
-    print(chosen_word) # TODO: remove later ;)
+    # print(chosen_word) # TODO: remove later ;)
 
     remaining_list = list("_" * len(chosen_word)) # list to store the guessed letters
     print(f"The word has {len(chosen_word)} letters!")
@@ -59,6 +59,7 @@ def main():
         # check if user still alive
         if lives <= 0:
             print("Oops! You lose")
+            print(f"The word was {chosen_word}.")
             user_alive = False
         
         # check if there's still more to guess
