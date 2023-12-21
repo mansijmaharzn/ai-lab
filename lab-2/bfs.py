@@ -23,7 +23,7 @@ def bfs(graph, start):
         for neighbor in graph[current_node]:
             if neighbor not in visited:
                 queue.append(neighbor)
-                visited.add(neighbor)
+                visited.append(neighbor)
 
 
 bfs(graph, 'A')
