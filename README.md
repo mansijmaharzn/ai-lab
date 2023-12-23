@@ -5,7 +5,8 @@
 |  **Lab No.** |           **Topic**                     |   **Status**  |
 |:------------:|:---------------------------------------:|:-------------:|
 |   **1**      | [Implementation of Intelligent Agent]   | **Completed** |
-|   **1**      | [Implementation of DFS and BFS]         | **Completed** |
+|   **2**      | [Implementation of DFS and BFS]         | **Completed** |
+|   **3**      | [Implementation of CS Problems]         | **PENDING** |
 
 
 ### Downloading
