@@ -23,3 +23,4 @@ git pull upstream main
 ---
 [Implementation of Intelligent Agent]: https://github.com/mansijmaharzn/ai-lab/tree/main/lab-1
 [Implementation of DFS and BFS]: https://github.com/mansijmaharzn/ai-lab/tree/main/lab-2
+[Implementation of CS Problems]: https://github.com/mansijmaharzn/ai-lab/tree/main/lab-3
