@@ -6,7 +6,7 @@
 |:------------:|:---------------------------------------:|:-------------:|
 |   **1**      | [Implementation of Intelligent Agent]   | **Completed** |
 |   **2**      | [Implementation of DFS and BFS]         | **Completed** |
-|   **3**      | [Implementation of CS Problems]         | **PENDING** |
+|   **3**      | [Implementation of CS Problems]         | **Completed** |
 
 
 ### Downloading
